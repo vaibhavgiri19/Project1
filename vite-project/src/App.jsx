@@ -5,7 +5,7 @@ function App() {
 
   return (
     <div style={{ textAlign: "center", marginTop: "50px" }}>
-      <h1>Mood Changer 🎭</h1>
+      <h1>Mood Switch 🎭</h1>
       <h2 style={{ fontSize: "100px" }}>{mood}</h2>
 
       <div>
